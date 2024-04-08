@@ -1,0 +1,20 @@
+{
+    "0":{
+        "barcode_value": 0,
+        "model_name":"helicopter",
+        "position":{ "x" : 0, "y":0,"z":-3},
+        "rotation":{ "x" : -90, "y":0,"z":0},
+        "scale":{ "x" : 1.5, "y":1.5,"z":1.5},
+        "model_url":"./assets/assets/scene.gltf"
+    },
+    "1":{
+        "barcode_value": 1,
+        "model_name":"robo_scorpion",
+        "position":{ "x" : -2, "y":0,"z":-3},
+        "rotation":{ "x" : -90, "y":0,"z":0},
+        "scale":{ "x" : 1.5, "y":1.5,"z":1.5},
+        "model_url":"./assets/robe_scorpion/scene.gltf"
+    }
+
+    
+}

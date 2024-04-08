@@ -1,0 +1,8 @@
+Model Information:
+* title:	Robo Scorpion
+* source:	https://sketchfab.com/3d-models/robo-scorpion-f64831083f9a4df29cf316bf24fe2b88
+* author:	Vetech82 (https://sketchfab.com/Vetech82)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
